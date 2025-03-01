@@ -8,6 +8,7 @@ while addressing it internally, and disclose it along with a new release after h
 
 ## Link to vulnerability disclosure details (Bug Bounty).
 [- Websites and Applications](https://hackerone.com/polygon-technology)
+
 [- Smart Contracts](https://immunefi.com/bounty/polygon)
 
 ## Languages that our team speaks and understands.
